@@ -20,7 +20,7 @@
 
 2. Записать файл.
 
-![9](https://github.com/user-attachments/assets/89d13a94-50b4-416b-85dd-a17004a412fe)
+![10](https://github.com/user-attachments/assets/452f8922-ad44-4849-ae3f-8e93c2b9082d)
 
 - **libaa-bin** — это утилита, которая запускает анимацию огня в терминале.
 - **iputils-ping** — пакет, который включает утилиту ping для тестирования сети.
