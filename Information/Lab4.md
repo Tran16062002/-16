@@ -36,7 +36,12 @@
 4. Запуск двух контейнеров с **aafire**.
 
 ![7](https://github.com/user-attachments/assets/65182f36-c5fe-4c59-8288-e47e352c0b5c)
+
+![11](https://github.com/user-attachments/assets/0353cf1d-867d-4fd0-838b-18fd13bd3787)
+
 ![8](https://github.com/user-attachments/assets/6763dce0-e2f5-44bf-abfd-60b358e4532d)
+
+![12](https://github.com/user-attachments/assets/7344a909-5dd3-43b9-9ce1-6469aff19044)
 
 **--name** позволяет задать имена контейнерам для удобства.
 
